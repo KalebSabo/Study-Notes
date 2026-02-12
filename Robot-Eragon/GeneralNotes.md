@@ -3,7 +3,10 @@
 
 ### Relevant Research
 - **White Papers**  
-https://arxiv.org/abs/2205.05748 Tiny Robot Learning: Challenges and Directions for Machine Learning in Resource-Constrained Robots
+https://arxiv.org/abs/2205.05748 Tiny Robot Learning: Challenges and Directions for Machine Learning in Resource-Constrained Robots'
+
+  https://sites.google.com/berkeley.edu/cloudfolding Learning to Fold Real Garments with One Arm: 
+A Case Study in Cloud-Based Robotics Research
 
 - **Youtube Videos**  
 https://youtu.be/rRFgm_QSc74?s 12 Design Tips And Tricks for Inventors and Makers
