@@ -2,10 +2,10 @@
 - This file will be for notes not able to fit into any of the catagories. 
 
 ### Relevant Research
-- See White Papers here  
+- **White Papers**  
 https://arxiv.org/abs/2205.05748 Tiny Robot Learning: Challenges and Directions for Machine Learning in Resource-Constrained Robots
 
-- Youtube Videos  
+- **Youtube Videos**  
 https://youtu.be/rRFgm_QSc74?s 12 Design Tips And Tricks for Inventors and Makers
 
 
